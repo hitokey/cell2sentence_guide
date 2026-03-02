@@ -114,6 +114,27 @@ Preparing transaction: ...working... done
 Executing transaction: ...working... done
 installation finished.
 ```
+### Iniciar o Conda
+
+Acho que ninguém em sã consciência quer escrever scripts
+em Python para sempre. De fato, no futuro, vamos oferecer
+tutoriais sobre como utilizar as bibliotecas de Python
+do Lisp, do R e do Prolog. Assim, podemos abandonar Python.
+Então, para que Conda não seja ativada toda vez que você abra
+um terminal, introduza a seguinte linha em `.bashrc`:
+
+```bash
+export CONDA_AUTO_ACTIVATE_BASE=false
+```
+Agora, execute o script abaixo, que vai
+modifical `.bashrc` para trabalhar com Conda.
+
+```bash
+~/miniconda3/bin/conda init
+```
+
+Reinicialize o terminal. Agora, a `(base)` de
+conda só será ativada quando você quiser.
 
 ### Ativar o Conda
 
