@@ -24,11 +24,12 @@ Este guia fornece instruções práticas para instalação, configuração e uso
 
 * Index
 
-| Index   | Titulo                                  | Português | Inglês |
-|---------+-----------------------------------------+-----------+--------|
-| Extra-a | Configuração SSH Git                    |           | [[./a-github-tutorial/README.md][Here]]   |
-| Extra-b | Instalação                              | [[./0-install/README.md][Aqui]]      |        |
-| Extra-c | Problema com Drive Nvidia               |           | [[./b-instalar/nvidia-smi-does-not-work.md][Here]]   |
-| 1       | UMAP of h5dad Files                     | [[c2s-0-umap][Aqui]]      |        |
-| 2       | Converção H5AD para Single-Cell RNA-seq |           | [[./c2s-1-umap][Here]]   |
-|         |                                         |           |        |
+| Index     | Titulo                                  | Português | Inglês |
+|-----------+-----------------------------------------+-----------+--------|
+| Extra-a.0 | Configuração SSH Git                    |           | [[./a-github-tutorial/README.md][Here]]   |
+| Extra-a.1 | Comandos do Github                      |           | [[./a-github-tutorial/gitcmds.md][Here]]   |
+| Extra-b.0 | Instalação                              | [[./0-install/README.md][Aqui]]      |        |
+| Extra-b.1 | Problema com Drive Nvidia               |           | [[./b-instalar/nvidia-smi-does-not-work.md][Here]]   |
+| 1         | UMAP of h5dad Files                     | [[c2s-0-umap][Aqui]]      |        |
+| 2         | Converção H5AD para Single-Cell RNA-seq |           | [[./c2s-1-umap][Here]]   |
+|           |                                         |           |        |
