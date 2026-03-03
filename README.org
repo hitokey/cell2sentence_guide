@@ -31,8 +31,8 @@ Este guia fornece instruções práticas para instalação, configuração e uso
 | Extra-b.0 | Instalação                              | [[./b-instalar/README.md][Aqui]]      |        |
 | Extra-b.1 | Problema com Drive Nvidia               |           | [[./b-instalar/nvidia-smi-does-not-work.md][Here]]   |
 | Extra-c.0 | Controle de Ambiente Anaconda           |           | [[./c-anaconda/activation.md][Here]]   |
-| 1         | UMAP de Arquivos H5AD                   | [[c2s-0-umap][Aqui]]      |        |
-| 2         | Conversão H5AD para Single-Cell RNA-seq |           | [[./c2s-1-umap][Here]]   |
+| 1         | UMAP de Arquivos H5AD                   | [[c2s-00-umap][Aqui]]      |        |
+| 2         | Conversão H5AD para Single-Cell RNA-seq |           | [[./c2s-01-cell2sentence-conv][Here]]   |
 |           |                                         |           |        |
 
 * Referência
