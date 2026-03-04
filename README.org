@@ -21,19 +21,18 @@ O projeto disponibiliza modelos pré-treinados de diferentes escalas (incluindo 
 
 Este guia fornece instruções práticas para instalação, configuração e uso do Cell2Sentence, incluindo análises UMAP e conversão de arquivos H5AD para análise de scRNA-seq.
 
-
 * Conteúdo
 
-| Index     | Título                                  | Português | Inglês |
-|-----------+-----------------------------------------+-----------+--------|
-| Extra-a.0 | Configuração SSH Git                    |           | [[./a-github-tutorial/README.md][Here]]   |
-| Extra-a.1 | Comandos do Github                      |           | [[./a-github-tutorial/gitcmds.md][Here]]   |
-| Extra-b.0 | Instalação                              | [[./b-instalar/README.md][Aqui]]      |        |
-| Extra-b.1 | Problema com Drive Nvidia               |           | [[./b-instalar/nvidia-smi-does-not-work.md][Here]]   |
-| Extra-c.0 | Controle de Ambiente Anaconda           |           | [[./c-anaconda/activation.md][Here]]   |
-| 1         | UMAP de Arquivos H5AD                   | [[c2s-00-umap][Aqui]]      |        |
-| 2         | Conversão H5AD para Single-Cell RNA-seq |           | [[./c2s-01-cell2sentence-conv][Here]]   |
-|           |                                         |           |        |
+| Index     | Título                                  | Português |
+|-----------+-----------------------------------------+-----------|
+| Extra-a.0 | Configuração SSH Git                    |           |
+| Extra-a.1 | Comandos do Github                      |           |
+| Extra-b.0 | Instalação                              | [[./b-instalar/README.md][Aqui]]      |
+| Extra-b.1 | Problema com Drive Nvidia               |           |
+| Extra-c.0 | Controle de Ambiente Anaconda           |           |
+| 1         | UMAP de Arquivos H5AD                   | [[c2s-00-umap][Aqui]]      |
+| 2         | Conversão H5AD para Single-Cell RNA-seq |           |
+
 
 * Referência
 
